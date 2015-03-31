@@ -1,0 +1,9 @@
+{
+  "name": "spreddit",
+  "version": "0.0.1",
+  "description": "Reddit, decentralized",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "simple-peer": "^4.0.4"
+  }
+}
