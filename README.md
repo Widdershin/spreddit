@@ -1,0 +1,2 @@
+# spreddit
+Reddit, decentralized.
